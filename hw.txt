@@ -1,0 +1,78 @@
+   0 cd /home
+   1 mkdir animal
+   2 cd /home/animal
+   3 mkdir gogs
+   4 mkdir cats
+   5 mkdir fish
+   6 ls
+   7 cd /home/animal/gogs
+   8 mkdir pluto
+   9 cd /home/animal/cats/
+  10 mkdir garfield
+  11 ls
+  12 cd /home/animal/gogs
+  13 ls
+  14 cd /home
+  15 mkdir
+  16 mkdir planet
+  17 ls
+  18 cd /opt/
+  19 mkdir Mercury
+  20 ls
+  21 mkdir Mars
+  22 mkdir Jupiter
+  23 ls
+  24 cp /tmp/Mercury /home/planet/
+  25 cd /tmp
+  26 ls
+  27 cd /opt
+  28 ls
+  29 cp /opt/Mercury /home/planet/
+  30 cd /home/planet/
+  31 ls
+  32 cd /home
+  33 ls
+  34 cd  /planet
+  35 cd
+  36 cd /home/planet
+  37 ls
+  38 cp /opt/Mercury /home/planet/
+  39 ls
+  40 cd
+  41 /home/planet/
+  42 cp /opt/Mercury/ /home/planet/
+  43 cp -p /opt/Mercury/ /home/planet/
+  44 mv /opt/Mercury/ /home/planet/
+  45 cd /home/planet/
+  46 ls
+  47 mv /opt/Mars/ /home/planet/
+  48 ls
+  49 mv /opt/Jupiter/ /home/planet/
+  50 ls
+  51 cd /tmp/
+  52 mkdir /adam
+  53 ls
+  54 mkdir adam
+  55 ls
+  56 cd /home/
+  57 mkdir humans
+  58 cd /tmp/
+  59 cp /tmp/adam/ /home/humans/
+  60 cp -r /tmp/adam/ /home/humans/
+  61 cd /home
+  62 cd /home/humans/
+  63 ls
+  64 cd /tmp
+  65 mkdir eva
+  66 mv /tmp/eva/ /opt/eve
+  67 cd /opt
+  68 ls
+  69 mv /opt/eve /home/humans/
+  70 cd /home/humans/
+  71 ls
+  72 history_hw.txt
+  73 cd
+  74 history_hw.txt
+  75 history >_hw.txt
+  76 export_file hw.txt
+  77 history > hw.txt
